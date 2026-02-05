@@ -50,22 +50,22 @@ My work sits at the intersection of **software engineering, data processing, and
 ## 🛠 Tech Stack
 
 **Languages**
-- Python • Java • SQL
+- Python • Java • C/C++/C# • SQL 
 
 **Backend & Frameworks**
 - Django • REST APIs • Spring Boot (learning)
-- .NET (exposure)
+- .NET & Java CORE (exposure)
 
 **Data & ML**
 - Data Processing • Model Evaluation
 - MATLAB • Python (NumPy, Pandas)
 
 **Databases**
-- MySQL • MongoDB
+- MySQL • MongoDB • PostgreSQL 
 
 **Cloud & Dev Tools**
 - Git & GitHub
-- Linux
+- Linux/Mac/Windows
 - Basic Cloud Concepts
 
 ---
