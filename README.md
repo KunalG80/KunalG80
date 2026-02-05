@@ -35,6 +35,8 @@ At **DRDO**, I worked on real production systems — not toy projects — reduci
 
 No hype. No fake “AI ninja” titles. Just solid engineering.
 
+> Real systems. Real constraints. Real impact.
+
 ---
 
 ## ⚙️ Tech Stack (What I Actually Use)
@@ -60,54 +62,6 @@ No hype. No fake “AI ninja” titles. Just solid engineering.
 - DSA
 - Debugging & Troubleshooting
 - System Thinking
-
----
-
-## 🏗️ Experience
-
-### 🛡️ Defense Research and Development Laboratory (DRDO)  
-**Graduate Apprentice** | Feb 2023 – Jul 2023
-
-- Reduced **telecom software downtime by 30%** through Python-based automation and hardware troubleshooting  
-- Improved **system accuracy by 20%** using MATLAB & Python for data processing models  
-- Built **automated IT infrastructure monitoring** with Django & REST APIs, cutting issue resolution time by **35%**
-
-> Real systems. Real constraints. Real impact.
-
----
-
-### 🧪 Anand Techno Creations  
-**Electronics Intern** | Aug 2020 – Sep 2020
-
-- Worked on **PCB design, circuit development, and GSM modem systems**
-- Learned **product design fundamentals, IPR basics, and technical documentation**
-
----
-
-## 🎓 Education
-
-- **PG Diploma in Advanced Computing (CDAC)**  
-  *MET – IIT Mumbai* (2024 – 2025)
-
-- **B.E. Electronics & Telecommunication**  
-  *PCCOER* (2018 – 2022)
-
----
-
-## 📜 Publications & Projects
-
-- **IoT-Based Vertical Farming using Hydroponics**  
-  Focused on **spectrum management and crop quality control**  
-  → Academic publication + practical IoT implementation
-
----
-
-## 🧠 Certifications
-
-- Digital Marketing Fundamentals  
-- Cyber Security Essentials (CSE 101)  
-- Internet of Things & Embedded Systems  
-- McKinsey.org Forward Program  
 
 ---
 
