@@ -43,7 +43,7 @@ No hype. No fake “AI ninja” titles. Just solid engineering.
 - Python
 - SQL
 - Java (Core)
-- MATLAB
+- C / C#
 
 **Backend & Tools**
 - Django
