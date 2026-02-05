@@ -35,36 +35,17 @@ At **DRDO**, I worked on real production systems — not toy projects — reduci
 
 No hype. No fake “AI ninja” titles. Just solid engineering.
 
-> Real systems. Real constraints. Real impact.
-
 ---
 
 ## ⚙️ Tech Stack (What I Actually Use)
 
-**Languages** - Python
-- Python
-- SQL
-- Java (Core)
-- C / C#
+**Languages** - Python, SQL, JAVA(CORE), C/C#, 
 
-**Backend & Tools**
-- Django
-- REST APIs
-- EPABX Systems
-- Git & GitHub
+**Backend & Tools** - Django, Git & Github, Rest API, 
 
-**Cloud & Fundamentals**
-- Cloud Computing
-- Networking Basics
-- Cyber Security Fundamentals
-
-**Core Strengths**
-- DSA
-- Debugging & Troubleshooting
-- System Thinking
+**Core Strengths** - DSA, Debugging & TroubleShooting, System Thinking,
 
 ---
-
 
 ## 📊 GitHub Stats (Signal, Not Vanity)
 
@@ -84,5 +65,6 @@ If you care about:
 - automation that saves time  
 - code that survives production  
 
-We’ll get along.
+> Real systems. Real constraints. Real impact.
 
+We’ll get along.
