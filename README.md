@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Kunal Gujar
 
-**Software Developer | CDAC Certified | Python • Cloud • Backend**
+**Software Developer | CDAC Certified | Python • Data • Backend**
 
 📍 Pune, India  
 📧 kunalgujar2903@outlook.com  
@@ -41,7 +41,7 @@ No hype. No fake “AI ninja” titles. Just solid engineering.
 
 ## ⚙️ Tech Stack (What I Actually Use)
 
-**Languages**
+**Languages** - Python
 - Python
 - SQL
 - Java (Core)
