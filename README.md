@@ -36,11 +36,9 @@ At **DRDO**, I worked on real production systems — not toy projects — reduci
 I build **clean, reliable software systems** with a strong foundation in **data, backend development, and problem-solving**.  
 My work sits at the intersection of **software engineering, data processing, and applied machine learning**.
 
-No hype. No fake “AI ninja” titles. Just solid engineering.
-
 ---
 
-## 🧠 What I Actually Do (No Buzzwords)
+## 🧠 What I Actually Do
 
 - Design and develop **backend systems & REST APIs**
 - Work with **data processing, ML pipelines, and system automation**
@@ -72,7 +70,7 @@ No hype. No fake “AI ninja” titles. Just solid engineering.
 
 ---
 
-## 📊 GitHub Stats (Signal, Not Vanity)
+## 📊 GitHub Stats
 
 <div align="center">
 
