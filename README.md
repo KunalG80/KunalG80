@@ -113,15 +113,6 @@ No hype. No fake “AI ninja” titles. Just solid engineering.
 
 ---
 
-## 🌍 Languages
-
-- English – Professional  
-- Hindi – Native  
-- Marathi – Native  
-- German – Elementary  
-- Japanese – Elementary  
-
----
 
 ## 📊 GitHub Stats (Signal, Not Vanity)
 
