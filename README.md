@@ -1,88 +1,87 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kunal%20Gujar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Practitioner%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5f5f7&height=5&section=header" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=No+hype.+No+fake+%22AI+ninja%22+titles.;Just+solid+engineering.;Backend+Systems+%7C+Data+Engineering+%7C+Applied+ML;Building+things+that+survive+production." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=40&pause=3000&color=1d1d1f&center=true&vCenter=true&width=700&height=70&lines=Kunal+Gujar" alt="Kunal Gujar" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CDAC%20Certified-Advanced%20Computing-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Telecom-6D28D9?style=for-the-badge&logo=ieee&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Experience-DRDO%20Intern-4F46E5?style=for-the-badge&logo=gov.uk&logoColor=white" />
-</p>
+<div align="center">
+  <sup>Software Engineer &nbsp;&middot;&nbsp; Data & ML Practitioner &nbsp;&middot;&nbsp; Systems Builder &nbsp;&middot;&nbsp; Pune, India</sup>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Pune%2C%20India-Maharashtra-8B5CF6?style=flat-square&logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
+<div align="center">
   <a href="https://kunalg80.github.io/Developer-Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=flat-square&logo=vercel&logoColor=f5f5f7" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/me-kunalgujar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=flat-square&logo=linkedin&logoColor=f5f5f7" />
   </a>
   &nbsp;
   <a href="mailto:kunalgujar2903@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1d1d1f?style=flat-square&logo=microsoft-outlook&logoColor=f5f5f7" />
   </a>
   &nbsp;
   <a href="https://github.com/KunalG80">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1d1d1f?style=flat-square&logo=github&logoColor=f5f5f7" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KunalG80&style=flat-square&color=7C3AED&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/KunalG80?style=flat-square&color=6D28D9&label=Followers&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/KunalG80?style=flat-square&color=4F46E5&label=Total+Stars&logo=github" />
-</p>
+<br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunalG80&style=flat-square&color=86868b&label=Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/KunalG80?style=flat-square&color=86868b&label=Followers&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/KunalG80?style=flat-square&color=86868b&label=Stars&logo=github&logoColor=white" />
+</div>
+
+<br/>
 <br/>
 
 ---
 
-## ◈ About
+<br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%">
+<td width="56%" valign="top">
 
-I'm a **CDAC-certified software developer** based in Pune, India, with a foundation in **Electronics & Telecommunication Engineering** and hands-on experience building production-grade systems at **DRDO**.
+### About
 
-My work lives at the intersection of **backend engineering, data processing pipelines, and applied machine learning** — not demos, not notebooks that only run locally, but systems that survive real workloads.
+CDAC-certified software developer with a foundation in Electronics &amp; Telecommunication Engineering and hands-on experience at **DRDO** — India's premier defense R&D organization.
 
-At DRDO, I worked on operational infrastructure — reducing system downtime, improving telemetry accuracy, and automating monitoring pipelines. That instilled a bias toward **measurable outcomes over clever abstractions**.
+My work sits at the intersection of backend engineering, data processing pipelines, and applied machine learning. Not demos. Not notebooks that only run locally. Systems that survive real workloads.
 
-I write code that is **maintainable by someone else**, systems that are **observable in production**, and models that produce **defensible predictions**.
+At DRDO, I built operational monitoring infrastructure — reducing downtime, automating telemetry collection, and improving data reliability under hard organizational constraints. That shaped a permanent bias toward measurable outcomes over clever abstractions.
+
+I write code that is maintainable by someone else, systems that are observable in production, and models that produce defensible predictions.
 
 </td>
-<td width="40%" align="center">
+<td width="44%" valign="top">
 
 ```yaml
-identity:
-  name: "Kunal Gujar"
-  alias: "KunalG80"
-  location: "Pune, Maharashtra, India"
-  timezone: "IST (UTC +05:30)"
+name:      Kunal Gujar
+alias:     KunalG80
+location:  Pune, Maharashtra
+timezone:  IST  (UTC +05:30)
 
 philosophy:
-  - "Systems over hype"
-  - "Ownership over delegation"
-  - "Clarity over cleverness"
-  - "Impact over impressiveness"
+  - Systems over hype
+  - Ownership over delegation
+  - Clarity over cleverness
+  - Impact over impressiveness
 
-currently:
-  status: "Open to opportunities"
-  focus: "Backend + Data + ML Engineering"
+status:    Open to opportunities
+focus:     Backend  Data  ML Engineering
 ```
 
 </td>
@@ -91,411 +90,423 @@ currently:
 
 <br/>
 
-**Open To:**
+**Open to** &ensp;
+![Software Developer](https://img.shields.io/badge/Software%20Developer-Backend%20%2F%20Full%20Stack-f5f5f7?style=flat-square&labelColor=1d1d1f&color=f5f5f7)
+&nbsp;
+![Data Engineer](https://img.shields.io/badge/Data%20Engineer-Entry%20to%20Mid-f5f5f7?style=flat-square&labelColor=1d1d1f&color=f5f5f7)
+&nbsp;
+![ML Engineer](https://img.shields.io/badge/ML%20Engineer-Applied%20AI-f5f5f7?style=flat-square&labelColor=1d1d1f&color=f5f5f7)
+&nbsp;
+![Open Source](https://img.shields.io/badge/Open%20Source-Collaboration-f5f5f7?style=flat-square&labelColor=1d1d1f&color=f5f5f7)
 
-<p>
-  <img src="https://img.shields.io/badge/Software%20Developer-Backend%20%2F%20Full%20Stack-7C3AED?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Data%20Engineer-Entry%20to%20Mid%20Level-6D28D9?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ML%20Engineer-Applied%20AI%20%2F%20Pipelines-4F46E5?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-Collaboration-8B5CF6?style=flat-square" />
-</p>
-
+<br/>
 <br/>
 
 ---
 
-## ◈ Tech Stack
+<br/>
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,sql&theme=dark" />
-</p>
+### Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css&theme=dark" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs&theme=light" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-f5f5f7?style=flat-square&logo=postgresql&logoColor=1d1d1f" />
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=django,spring,dotnet,mysql,mongodb,postgres&theme=dark" />
-</p>
+<br/><br/>
 
-### Cloud, DevOps & Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,matlab&theme=dark" />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css&theme=light" />
 
+<br/><br/>
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,spring,dotnet,mysql,mongodb,postgres&theme=light" />
+
+<br/><br/>
+
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,matlab&theme=light" />
+
+<br/>
 <br/>
 
 ---
 
-## ◈ AI / ML Expertise
+<br/>
+
+### AI / ML Expertise
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Stack & Detail |
 |:---|:---:|:---|
-| **Supervised Learning** | ████████░░ Advanced | Classification, regression, ensemble methods — scikit-learn, evaluation pipelines |
-| **Data Processing & EDA** | █████████░ Expert | NumPy, Pandas, feature engineering, statistical analysis, MATLAB |
-| **Churn Prediction & CLV** | ████████░░ Advanced | Survival models, XGBoost pipelines, ROI attribution, executive reporting |
-| **ML Pipelines** | ███████░░░ Proficient | Model versioning, evaluation harnesses, reproducible experiments |
-| **NLP / Text Processing** | ██████░░░░ Intermediate | Document classification, tokenization, embedding-based retrieval |
-| **Deep Learning** | █████░░░░░ Developing | PyTorch / TensorFlow fundamentals, feedforward & CNN architectures |
-| **MLOps Fundamentals** | █████░░░░░ Developing | Model packaging, REST API serving, monitoring basics |
-| **Data Visualization** | ████████░░ Advanced | Matplotlib, Seaborn, dashboard-grade reporting |
+| Data Processing & EDA | `Expert` | NumPy · Pandas · feature engineering · MATLAB |
+| Supervised Learning | `Advanced` | Classification · regression · ensemble methods · scikit-learn |
+| Churn Prediction & CLV | `Advanced` | XGBoost pipelines · survival models · ROI attribution |
+| ML Pipelines | `Proficient` | Model versioning · evaluation harnesses · reproducibility |
+| Data Visualization | `Proficient` | Matplotlib · Seaborn · dashboard-grade reporting |
+| NLP / Text Processing | `Intermediate` | Document classification · tokenization · embedding retrieval |
+| Deep Learning | `Developing` | PyTorch · TensorFlow fundamentals · feedforward & CNN |
+| MLOps Fundamentals | `Developing` | Model packaging · REST API serving · monitoring basics |
 
 </div>
 
 <br/>
+<br/>
 
 ---
 
-## ◈ Featured Projects
+<br/>
+
+### Featured Projects
 
 <details>
-<summary><strong>◆ ChurnGuard AI — Customer Churn Prediction & Retention ROI Engine</strong></summary>
+<summary>&nbsp;<strong>ChurnGuard AI</strong> &mdash; Customer Churn Prediction & Retention ROI Engine</summary>
 
 <br/>
 
-An AI-driven churn prediction and retention ROI engine that transforms customer risk signals into revenue recovery strategies and executive-ready reports. Built to bridge the gap between model output and actionable business intelligence — not just a prediction, but a decision-support system.
+An AI-driven churn prediction and retention ROI engine that transforms customer risk signals into revenue recovery strategies and executive-ready reports. Built to bridge the gap between model output and business action — a decision-support system, not just a prediction score.
 
-<div align="center">
-
-| Attribute | Detail |
+| | |
 |:---|:---|
 | **Stack** | Python · scikit-learn · XGBoost · Pandas · Matplotlib · Seaborn · REST API |
-| **Scale** | Designed for mid-market SaaS and subscription businesses |
+| **Scale** | Mid-market SaaS and subscription businesses |
 | **Performance** | Calibrated probability outputs with revenue-weighted scoring |
 | **Security** | Local inference — no third-party data exposure |
 | **Impact** | Converts model risk scores into executive ROI recovery narratives |
 | **Repository** | [KunalG80/Churnguard-AI](https://github.com/KunalG80/Churnguard-AI) |
 
-</div>
-
-The system ingests customer behavioral data, runs a calibrated ensemble model, segments customers by churn probability bands, and generates structured retention playbooks with projected ROI. Designed to be the output a CRO can read on Monday morning, not a Jupyter notebook that requires a data scientist to interpret.
+The system ingests customer behavioral data, runs a calibrated ensemble model, segments customers by churn probability bands, and generates structured retention playbooks with projected ROI. The output is what a CRO reads on Monday morning — not a Jupyter notebook that requires a data scientist to interpret.
 
 <br/>
 
 </details>
 
 <details>
-<summary><strong>◆ Developer Portfolio Website — React + TypeScript Engineering Portfolio</strong></summary>
+<summary>&nbsp;<strong>Developer Portfolio Website</strong> &mdash; React + TypeScript Engineering Portfolio</summary>
 
 <br/>
 
-A modern, production-grade developer portfolio built with React, TypeScript, and Tailwind CSS — designed to serve as a professional landing page for showcasing engineering projects, research contributions, certifications, and technical writing.
+A production-grade developer portfolio built with React, TypeScript, and Tailwind CSS — designed as a professional landing page for showcasing engineering projects, certifications, and technical writing.
 
-<div align="center">
-
-| Attribute | Detail |
+| | |
 |:---|:---|
 | **Stack** | React · TypeScript · Tailwind CSS · Vite |
 | **Scale** | Single-page application — fully client-rendered |
-| **Performance** | Static-first architecture, optimized bundle, fast TTI |
-| **Security** | No backend, no user data collection, no third-party trackers |
-| **Impact** | Serves as primary professional landing page for recruiter outreach |
+| **Performance** | Static-first architecture · optimized bundle · fast TTI |
+| **Security** | No backend · no user data collection · no third-party trackers |
+| **Impact** | Primary professional landing page for recruiter outreach |
 | **Repository** | [KunalG80/Developer-Portfolio-Website](https://github.com/KunalG80/Developer-Portfolio-Website) |
 
-</div>
-
-Architected with component isolation and typed props throughout. The project demonstrates ability to build maintainable frontend systems beyond the typical "portfolio-site generator" approach — typed interfaces, clean state management, and deployment-ready output.
+Architected with component isolation and typed props throughout. Demonstrates ability to build maintainable frontend systems beyond the typical portfolio generator — typed interfaces, clean state management, deployment-ready output.
 
 <br/>
 
 </details>
 
 <details>
-<summary><strong>◆ CDAC Study Notes — Computer Science Fundamentals Reference System</strong></summary>
+<summary>&nbsp;<strong>CDAC Study Notes</strong> &mdash; Computer Science Fundamentals Reference</summary>
 
 <br/>
 
-A comprehensive, structured reference covering the core domains of computer science as taught through CDAC's Post Graduate Diploma in Advanced Computing program — including data structures, operating systems, networking, databases, and software engineering principles.
+A structured reference covering core CS domains from CDAC's PG-DAC program — data structures, operating systems, networking, databases, and software engineering principles.
 
-<div align="center">
-
-| Attribute | Detail |
+| | |
 |:---|:---|
-| **Stack** | C# · C · Markdown · Structured Documentation |
-| **Scale** | Covers 6+ core CS domains with implementation examples |
-| **Performance** | N/A — reference and educational resource |
-| **Security** | Open source — public knowledge resource |
-| **Impact** | Useful reference for developers preparing for systems-level roles |
+| **Stack** | C · C# · Markdown |
+| **Scale** | 6+ CS domains with implementation-level examples |
+| **Impact** | Open-source reference for systems-level interview and exam preparation |
 | **Repository** | [KunalG80/CDAC-Study-Notes](https://github.com/KunalG80/CDAC-Study-Notes) |
 
-</div>
-
-Built as a living reference during CDAC training with the intent of making it genuinely useful to others navigating the same material. Organized by domain with implementation-level examples in C and C#, not just theoretical definitions.
+Organized by domain with practical code examples, not definitions. Built during CDAC training to be genuinely useful to others navigating the same material.
 
 <br/>
 
 </details>
 
 <br/>
+<br/>
 
 ---
 
-## ◈ Experience
-
-<table>
-<tr>
-<td>
-
-**Software / Systems Engineering Intern** &nbsp;·&nbsp; **DRDO (Defence Research and Development Organisation)**
 <br/>
-*Pune, India &nbsp;·&nbsp; 2023 – 2024*
 
-Worked on real operational systems at one of India's premier defense R&D organizations. Responsibilities spanned infrastructure monitoring, system automation, and data reliability improvements — all in production environments where failures have measurable consequences.
+### Experience
 
-- Diagnosed and resolved recurring system downtime issues, reducing failure frequency through root-cause automation
-- Built monitoring scripts that automated telemetry collection and anomaly flagging across infrastructure components
+**Software / Systems Engineering Intern** &ensp;·&ensp; DRDO (Defence Research and Development Organisation) &ensp;·&ensp; Pune &ensp;·&ensp; 2023 – 2024
+
+Worked on operational infrastructure at one of India's premier defense R&D organizations — system monitoring, process automation, and data reliability improvements in environments where failures have measurable consequences.
+
+- Diagnosed recurring system downtime; reduced failure frequency through root-cause automation
+- Built monitoring scripts automating telemetry collection and anomaly flagging across infrastructure
 - Improved data accuracy in reporting pipelines by redesigning ingestion and validation logic
-- Worked within hardware-software co-design constraints, debugging at both software and system levels
-- Delivered working systems against strict organizational review processes
+- Debugged at hardware-software interface level under strict organizational review processes
 
 <p>
-  <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Automation-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infrastructure%20Monitoring-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Processing-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-5B21B6?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-f5f5f7?style=flat-square&logo=python&logoColor=1d1d1f" />
+  <img src="https://img.shields.io/badge/System%20Automation-f5f5f7?style=flat-square&logoColor=1d1d1f" />
+  <img src="https://img.shields.io/badge/Infrastructure%20Monitoring-f5f5f7?style=flat-square&logoColor=1d1d1f" />
+  <img src="https://img.shields.io/badge/Data%20Processing-f5f5f7?style=flat-square&logoColor=1d1d1f" />
+  <img src="https://img.shields.io/badge/Linux-f5f5f7?style=flat-square&logo=linux&logoColor=1d1d1f" />
 </p>
 
-</td>
-</tr>
-</table>
-
+<br/>
 <br/>
 
 ---
 
-## ◈ Achievements
+<br/>
+
+### Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|:---:|:---|
-| 🎓 **CDAC PG-DAC Certification** | Post Graduate Diploma in Advanced Computing — one of India's most rigorous software engineering programs |
-| ⚙️ **DRDO Production System Contributor** | Delivered working automation and monitoring systems in a live government defense research environment |
-| 🧠 **ChurnGuard AI** | End-to-end ML product with executive-grade reporting layer — published open source |
-| 💻 **React + TypeScript Portfolio** | Full production-grade frontend portfolio — typed, deployed, and publicly accessible |
-| 📚 **CDAC Study Notes** | Open-source CS reference repository for systems-level interview and exam preparation |
-| 🌐 **Multi-Domain Stack** | Demonstrated engineering breadth across backend, frontend, data, ML, and systems programming |
+|:---|:---|
+| CDAC PG-DAC Certification | Post Graduate Diploma in Advanced Computing — one of India's most rigorous software engineering programs |
+| DRDO Production Systems | Delivered working automation and monitoring tools in a live government defense research environment |
+| ChurnGuard AI | End-to-end ML product with executive reporting layer — open source |
+| React + TypeScript Portfolio | Full production-grade frontend — typed, deployed, publicly accessible |
+| CDAC Study Notes | Open-source CS reference used for systems-level interview and exam preparation |
+| Multi-Domain Stack | Engineering breadth across backend, frontend, data, ML, and systems programming |
 
 </div>
 
 <br/>
+<br/>
 
 ---
 
-## ◈ Certifications
+<br/>
+
+### Certifications
 
 <div align="center">
 
-### Oracle
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Java%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+**Oracle**
+<br/>
+<img src="https://img.shields.io/badge/Java%20Fundamentals-1d1d1f?style=flat-square&logo=oracle&logoColor=f5f5f7" />
+&nbsp;
+<img src="https://img.shields.io/badge/Database%20Foundations-1d1d1f?style=flat-square&logo=oracle&logoColor=f5f5f7" />
 
-### CDAC
-<p>
-  <img src="https://img.shields.io/badge/CDAC-PG%20Diploma%20in%20Advanced%20Computing-7C3AED?style=for-the-badge&logoColor=white" />
-</p>
+<br/><br/>
 
-### NPTEL / IIT
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-4F46E5?style=for-the-badge&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logoColor=white" />
-</p>
+**CDAC**
+<br/>
+<img src="https://img.shields.io/badge/PG%20Diploma%20in%20Advanced%20Computing-1d1d1f?style=flat-square&logoColor=f5f5f7" />
 
-### Cisco
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+<br/><br/>
 
-### HackerRank
-<p>
-  <img src="https://img.shields.io/badge/HackerRank-Python%20%28Basic%29-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20%28Intermediate%29-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</p>
+**NPTEL / IIT**
+<br/>
+<img src="https://img.shields.io/badge/Programming%20in%20Python-1d1d1f?style=flat-square&logo=python&logoColor=f5f5f7" />
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1d1d1f?style=flat-square&logoColor=f5f5f7" />
+
+<br/><br/>
+
+**Cisco**
+<br/>
+<img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-1d1d1f?style=flat-square&logo=cisco&logoColor=f5f5f7" />
+&nbsp;
+<img src="https://img.shields.io/badge/Networking%20Essentials-1d1d1f?style=flat-square&logo=cisco&logoColor=f5f5f7" />
+
+<br/><br/>
+
+**HackerRank**
+<br/>
+<img src="https://img.shields.io/badge/Python%20Basic-1d1d1f?style=flat-square&logo=hackerrank&logoColor=f5f5f7" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL%20Intermediate-1d1d1f?style=flat-square&logo=hackerrank&logoColor=f5f5f7" />
+&nbsp;
+<img src="https://img.shields.io/badge/Problem%20Solving-1d1d1f?style=flat-square&logo=hackerrank&logoColor=f5f5f7" />
 
 </div>
 
 <br/>
+<br/>
 
 ---
 
-## ◈ Coding Profiles
+<br/>
+
+### Coding Profiles
 
 <div align="center">
 
 <a href="https://www.hackerrank.com/profile/Kunal_Gujar">
-  <img src="https://img.shields.io/badge/HackerRank-KunalGujar-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Kunal__Gujar-1d1d1f?style=flat-square&logo=hackerrank&logoColor=f5f5f7" />
 </a>
-&nbsp;&nbsp;
+&ensp;
 <a href="https://leetcode.com/KunalG80/">
-  <img src="https://img.shields.io/badge/LeetCode-KunalG80-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-KunalG80-1d1d1f?style=flat-square&logo=leetcode&logoColor=f5f5f7" />
 </a>
-&nbsp;&nbsp;
+&ensp;
 <a href="https://www.geeksforgeeks.org/user/kunalgujar/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-kunalgujar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-kunalgujar-1d1d1f?style=flat-square&logo=geeksforgeeks&logoColor=f5f5f7" />
 </a>
-&nbsp;&nbsp;
+&ensp;
 <a href="https://www.codechef.com/users/kunal_gujar">
-  <img src="https://img.shields.io/badge/CodeChef-kunal__gujar-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-kunal__gujar-1d1d1f?style=flat-square&logo=codechef&logoColor=f5f5f7" />
 </a>
 
 </div>
 
 <br/>
-
----
-
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalG80&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0d0d0d&title_color=7C3AED&icon_color=6D28D9&text_color=c4b5fd&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalG80&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0d0d0d&title_color=7C3AED&text_color=c4b5fd&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KunalG80&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7C3AED&fire=6D28D9&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6b7280" />
-
-</div>
-
 <br/>
 
 ---
 
-## ◈ GitHub Trophies
+<br/>
+
+### GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KunalG80&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=KunalG80&show_icons=true&hide_border=true&theme=default&bg_color=f5f5f7&title_color=1d1d1f&icon_color=86868b&text_color=424245&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalG80&layout=compact&hide_border=true&theme=default&bg_color=f5f5f7&title_color=1d1d1f&text_color=424245&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KunalG80&theme=default&hide_border=true&background=F5F5F7&ring=1d1d1f&fire=424245&currStreakLabel=1d1d1f&sideLabels=86868b&dates=86868b&stroke=EAEAEA" />
 
 </div>
 
 <br/>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalG80&bg_color=0d0d0d&color=7C3AED&line=6D28D9&point=c4b5fd&area=true&area_color=4F46E5&hide_border=true&radius=8" />
-
-</div>
-
 <br/>
 
 ---
 
-## ◈ Contribution Snake
+<br/>
+
+### GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KunalG80&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalG80&bg_color=f5f5f7&color=1d1d1f&line=424245&point=86868b&area=true&area_color=e8e8ed&hide_border=true&radius=4" />
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+### Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KunalG80/KunalG80/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KunalG80/KunalG80/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/KunalG80/KunalG80/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/KunalG80/KunalG80/output/github-snake.svg" />
 </picture>
 
 </div>
 
 <br/>
-
----
-
-## ◈ Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - "Spring Boot — production-grade Java backend services"
-    - "MLOps fundamentals — model serving, monitoring, drift detection"
-    - "System design patterns — distributed systems, caching, message queues"
-    - "Docker and container orchestration basics"
-
-  building:
-    - "ChurnGuard AI v2 — adding cohort analysis and API layer"
-    - "Backend service templates — reusable Django + PostgreSQL scaffolding"
-    - "Personal knowledge base — structured CS reference system"
-
-  exploring:
-    - "LLM application engineering — RAG, prompt pipelines, evaluation harnesses"
-    - "Time-series anomaly detection for infrastructure monitoring"
-    - "Graph-based data modeling for relationship-heavy domains"
-
-  open_to:
-    roles:
-      - "Software Developer (Backend / Full Stack)"
-      - "Data Engineer (Entry to Mid-level)"
-      - "ML Engineer (Applied AI / Pipelines)"
-    team_culture:
-      - "Engineering discipline over hype"
-      - "Ownership and accountability"
-      - "Code review culture"
-      - "Systems that survive production"
-```
-
 <br/>
 
 ---
 
-## ◈ Connect
+<br/>
+
+### Current Focus
+
+```yaml
+learning:
+  - Spring Boot — production-grade Java backend services
+  - MLOps fundamentals — model serving, monitoring, drift detection
+  - System design — distributed systems, caching, message queues
+  - Docker and container orchestration basics
+
+building:
+  - ChurnGuard AI v2 — cohort analysis and REST API layer
+  - Backend service templates — reusable Django + PostgreSQL scaffolding
+  - Personal knowledge base — structured CS reference system
+
+exploring:
+  - LLM application engineering — RAG, prompt pipelines, evaluation harnesses
+  - Time-series anomaly detection for infrastructure monitoring
+  - Graph-based data modeling for relationship-heavy domains
+
+open_to:
+  - Software Developer  (Backend / Full Stack)
+  - Data Engineer       (Entry to Mid-level)
+  - ML Engineer         (Applied AI / Pipelines)
+```
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+### Connect
 
 <div align="center">
 
 <a href="mailto:kunalgujar2903@outlook.com">
-  <img src="https://img.shields.io/badge/Gmail%20%2F%20Outlook-kunalgujar2903%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/kunalgujar2903%40outlook.com-1d1d1f?style=flat-square&logo=microsoft-outlook&logoColor=f5f5f7" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/me-kunalgujar">
-  <img src="https://img.shields.io/badge/LinkedIn-in%2Fme--kunalgujar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/in%2Fme--kunalgujar-1d1d1f?style=flat-square&logo=linkedin&logoColor=f5f5f7" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/KunalG80">
-  <img src="https://img.shields.io/badge/GitHub-KunalG80-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/github.com%2FKunalG80-1d1d1f?style=flat-square&logo=github&logoColor=f5f5f7" />
 </a>
 
 <br/><br/>
 
 <a href="https://kunalg80.github.io/Developer-Portfolio-Website/">
-  <img src="https://img.shields.io/badge/Portfolio-kunalg80.github.io-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=flat-square&logo=vercel&logoColor=f5f5f7" />
 </a>
 
 </div>
 
 <br/>
+<br/>
 
 ---
 
-<div align="center">
+<br/>
 
-*"The measure of engineering is not how clever the solution is — it is how little it surprises the person who inherits it."*
+<div align="center">
+  <sub><i>"The measure of engineering is not how clever the solution is — it is how little it surprises the person who inherits it."</i></sub>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1d1d1f&height=3&section=footer" />
 </div>
